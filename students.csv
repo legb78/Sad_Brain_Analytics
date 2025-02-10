@@ -1,0 +1,503 @@
+Name,Gender,Age,City,Working Professional or Student,Sleep Duration,Dietary Habits,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression,Academic Pressure,CGPA,Study Satisfaction
+Advait,Male,28,Varanasi,Student,7-8 hours,Moderate,Yes,9,2,Yes,No,2.0,6.51,4.0
+Sanket,Male,28,Bangalore,Student,5-6 hours,Healthy,Yes,7,1,Yes,No,4.0,7.48,5.0
+Ranveer,Male,25,Rajkot,Student,5-6 hours,Unhealthy,Yes,10,4,No,Yes,1.0,7.21,3.0
+Gagan,Male,23,Mumbai,Student,More than 8 hours,Unhealthy,Yes,7,2,Yes,No,1.0,9.9,4.0
+Tina,Female,31,Vadodara,Student,More than 8 hours,Healthy,Yes,4,2,Yes,No,1.0,5.97,5.0
+Vivaan,Male,19,Rajkot,Student,5-6 hours,Unhealthy,Yes,1,4,Yes,Yes,4.0,9.05,4.0
+Anaya,Female,34,Faridabad,Student,More than 8 hours,Moderate,Yes,6,2,No,Yes,4.0,9.96,2.0
+Rashi,Female,20,Pune,Student,More than 8 hours,Healthy,Yes,3,4,Yes,Yes,4.0,6.17,1.0
+Kashish,Female,33,Pune,Student,More than 8 hours,Moderate,No,10,3,No,No,1.0,6.5,4.0
+Armaan,Male,33,Nashik,Student,Less than 5 hours,Unhealthy,Yes,10,1,No,Yes,4.0,6.75,3.0
+Khushi,Female,31,Chennai,Student,5-6 hours,Healthy,Yes,6,4,No,Yes,5.0,5.79,4.0
+Vikram,Male,24,Bangalore,Student,7-8 hours,Unhealthy,Yes,11,5,No,Yes,2.0,9.79,1.0
+Aaradhya,Female,23,Vasai-Virar,Student,Less than 5 hours,Unhealthy,Yes,2,1,Yes,Yes,5.0,5.56,5.0
+Mihir,Male,25,Srinagar,Student,5-6 hours,Moderate,Yes,12,3,Yes,Yes,1.0,9.79,1.0
+Anand,Male,21,Pune,Student,More than 8 hours,Unhealthy,Yes,3,5,Yes,Yes,5.0,6.16,1.0
+Parth,Male,28,Vadodara,Student,5-6 hours,Healthy,Yes,8,3,Yes,Yes,5.0,5.37,3.0
+Mihir,Male,23,Visakhapatnam,Student,More than 8 hours,Moderate,No,10,4,No,Yes,5.0,9.89,2.0
+Eshita,Female,23,Kalyan,Student,Less than 5 hours,Healthy,Yes,0,3,No,No,1.0,5.1,3.0
+Bhavna,Female,20,Delhi,Student,More than 8 hours,Unhealthy,Yes,2,5,No,Yes,5.0,8.27,5.0
+Kian,Male,29,Lucknow,Student,More than 8 hours,Unhealthy,Yes,1,3,No,Yes,4.0,7.53,3.0
+Aarush,Male,31,Lucknow,Student,More than 8 hours,Unhealthy,No,3,3,Yes,No,2.0,5.89,3.0
+Jai,Male,24,Kalyan,Student,More than 8 hours,Healthy,Yes,1,3,No,No,3.0,7.34,4.0
+Deepak,Male,31,Patna,Student,More than 8 hours,Unhealthy,No,10,1,No,No,2.0,5.11,4.0
+Aahana,Female,33,Rajkot,Student,7-8 hours,Moderate,No,11,5,Yes,No,3.0,8.52,2.0
+Rupal,Female,33,Srinagar,Student,7-8 hours,Moderate,Yes,12,5,Yes,Yes,2.0,5.48,3.0
+Dhruv,Male,31,Thane,Student,7-8 hours,Healthy,No,2,4,Yes,No,2.0,9.92,2.0
+Pratham,Male,30,Bhopal,Student,7-8 hours,Moderate,Yes,0,2,Yes,No,3.0,5.46,4.0
+Rudransh,Male,21,Chennai,Student,7-8 hours,Unhealthy,No,6,4,Yes,Yes,5.0,7.75,3.0
+Shreya,Female,29,Ahmedabad,Student,Less than 5 hours,Moderate,Yes,4,3,Yes,Yes,3.0,5.58,5.0
+Shreya,Female,34,Faridabad,Student,Less than 5 hours,Unhealthy,Yes,12,1,Yes,Yes,3.0,9.49,4.0
+Kriti,Female,20,Bangalore,Student,More than 8 hours,Healthy,No,2,2,No,No,3.0,7.0,2.0
+Ira,Female,33,Delhi,Student,Less than 5 hours,Moderate,Yes,3,3,Yes,No,2.0,8.16,5.0
+Chirag,Male,32,Patna,Student,5-6 hours,Moderate,Yes,12,3,No,Yes,5.0,9.96,2.0
+Prisha,Female,21,Pune,Student,7-8 hours,Moderate,No,9,2,No,Yes,5.0,5.65,3.0
+Nikhil,Male,26,Patna,Student,Less than 5 hours,Unhealthy,Yes,10,5,No,Yes,5.0,9.16,1.0
+Ayaan,Male,26,Vadodara,Student,7-8 hours,Unhealthy,No,3,2,Yes,No,5.0,9.67,4.0
+Ishaani,Female,22,Jaipur,Student,Less than 5 hours,Healthy,No,2,2,No,No,1.0,7.45,1.0
+Chirag,Male,26,Jaipur,Student,Less than 5 hours,Unhealthy,No,4,1,Yes,No,4.0,9.56,5.0
+Tejas,Male,25,Ghaziabad,Student,7-8 hours,Unhealthy,No,8,1,Yes,No,1.0,6.61,3.0
+Lavanya,Female,21,Indore,Student,7-8 hours,Moderate,Yes,8,5,Yes,Yes,3.0,5.76,3.0
+Dev,Male,29,Visakhapatnam,Student,7-8 hours,Healthy,No,6,1,Yes,No,1.0,7.32,1.0
+Bhavesh,Male,22,Surat,Student,7-8 hours,Unhealthy,No,6,4,No,No,1.0,7.11,3.0
+Shivam,Male,21,Pune,Student,7-8 hours,Unhealthy,Yes,1,5,No,Yes,3.0,5.74,2.0
+Nirvaan,Male,31,Patna,Student,5-6 hours,Healthy,No,12,3,No,No,5.0,8.38,4.0
+Prachi,Female,24,Bhopal,Student,5-6 hours,Moderate,No,3,5,No,No,1.0,7.9,3.0
+Manan,Male,20,Srinagar,Student,More than 8 hours,Unhealthy,No,11,4,No,No,3.0,8.61,5.0
+Vani,Female,31,Delhi,Student,7-8 hours,Healthy,No,12,3,Yes,No,1.0,5.61,3.0
+Vikram,Male,21,Jaipur,Student,5-6 hours,Unhealthy,Yes,1,1,No,No,1.0,7.25,5.0
+Harsh,Male,24,Kolkata,Student,5-6 hours,Healthy,No,12,4,Yes,No,2.0,9.71,4.0
+Krishna,Male,34,Jaipur,Student,7-8 hours,Healthy,No,8,3,No,No,3.0,7.02,4.0
+Ishaani,Female,25,Rajkot,Student,Less than 5 hours,Healthy,No,7,1,No,No,5.0,8.53,4.0
+Ishaan,Male,27,Nashik,Student,5-6 hours,Healthy,Yes,10,3,No,No,2.0,8.95,5.0
+Pari,Female,32,Kalyan,Student,5-6 hours,Moderate,No,10,1,Yes,No,2.0,5.88,4.0
+Pratyush,Male,26,Delhi,Student,5-6 hours,Unhealthy,No,9,1,Yes,No,4.0,5.35,4.0
+Ritvik,Male,23,Meerut,Student,Less than 5 hours,Unhealthy,No,8,5,No,No,2.0,8.04,5.0
+Deepak,Male,22,Visakhapatnam,Student,More than 8 hours,Moderate,No,12,4,No,No,1.0,6.19,5.0
+Shrey,Male,29,Thane,Student,More than 8 hours,Moderate,Yes,4,1,Yes,Yes,3.0,9.04,1.0
+Siddhesh,Male,20,Nagpur,Student,Less than 5 hours,Unhealthy,Yes,5,4,Yes,Yes,4.0,8.89,2.0
+Ranveer,Male,28,Ghaziabad,Student,More than 8 hours,Unhealthy,Yes,1,1,No,No,2.0,5.99,2.0
+Vaishnavi,Female,30,Kalyan,Student,More than 8 hours,Moderate,Yes,6,2,No,Yes,5.0,7.52,3.0
+Neha,Female,29,Rajkot,Student,Less than 5 hours,Moderate,No,0,1,Yes,No,4.0,5.51,2.0
+Aniket,Male,29,Indore,Student,7-8 hours,Unhealthy,Yes,6,2,No,Yes,4.0,6.25,4.0
+Arjun,Male,24,Nashik,Student,5-6 hours,Moderate,Yes,3,2,Yes,No,1.0,9.19,3.0
+Rajat,Male,19,Ludhiana,Student,Less than 5 hours,Moderate,Yes,5,4,Yes,Yes,2.0,7.38,4.0
+Chirag,Male,29,Lucknow,Student,7-8 hours,Healthy,No,11,1,No,No,2.0,9.56,5.0
+Yashvi,Female,20,Pune,Student,Less than 5 hours,Healthy,No,8,5,No,No,1.0,9.82,5.0
+Trisha,Female,31,Jaipur,Student,Less than 5 hours,Moderate,Yes,5,2,No,Yes,2.0,8.08,1.0
+Aaradhya,Female,27,Vadodara,Student,7-8 hours,Unhealthy,No,11,1,No,No,3.0,5.87,3.0
+Navya,Female,27,Surat,Student,Less than 5 hours,Healthy,Yes,8,3,Yes,Yes,2.0,7.39,3.0
+Aniket,Male,30,Kalyan,Student,Less than 5 hours,Moderate,No,8,2,No,No,4.0,8.11,1.0
+Aarav,Male,21,Ahmedabad,Student,More than 8 hours,Healthy,Yes,5,1,Yes,No,3.0,7.13,5.0
+Saanvi,Female,27,Patna,Student,7-8 hours,Unhealthy,Yes,0,2,No,Yes,4.0,6.42,2.0
+Arya,Male,28,Kalyan,Student,More than 8 hours,Unhealthy,Yes,8,2,No,No,1.0,7.39,1.0
+Reyansh,Male,26,Visakhapatnam,Student,More than 8 hours,Unhealthy,Yes,11,5,No,Yes,3.0,7.68,4.0
+Sanket,Male,33,Bhopal,Student,7-8 hours,Healthy,No,8,2,Yes,No,3.0,9.17,2.0
+Lata,Female,31,Mumbai,Student,7-8 hours,Unhealthy,No,10,1,Yes,No,1.0,6.73,3.0
+Tanvi,Female,32,Vasai-Virar,Student,5-6 hours,Healthy,No,2,2,No,No,4.0,7.09,4.0
+Yash,Male,28,Varanasi,Student,5-6 hours,Moderate,Yes,10,2,No,Yes,3.0,8.0,4.0
+Nakul,Male,24,Patna,Student,More than 8 hours,Moderate,No,6,4,Yes,Yes,4.0,8.9,3.0
+Satyam,Male,19,Agra,Student,More than 8 hours,Unhealthy,Yes,3,1,No,Yes,3.0,7.04,2.0
+Rudransh,Male,31,Kanpur,Student,7-8 hours,Unhealthy,No,8,3,No,No,1.0,8.62,2.0
+Aarti,Female,22,Ahmedabad,Student,7-8 hours,Moderate,Yes,7,4,No,Yes,3.0,6.16,3.0
+Lata,Female,24,Hyderabad,Student,5-6 hours,Healthy,No,3,5,No,Yes,5.0,8.94,2.0
+Prisha,Female,33,Ludhiana,Student,Less than 5 hours,Moderate,Yes,10,3,Yes,Yes,2.0,5.16,4.0
+Samaira,Female,34,Hyderabad,Student,7-8 hours,Unhealthy,Yes,0,4,Yes,Yes,3.0,5.32,2.0
+Anand,Male,18,Ahmedabad,Student,7-8 hours,Unhealthy,Yes,9,3,Yes,Yes,3.0,8.64,4.0
+Rhea,Female,32,Ludhiana,Student,7-8 hours,Healthy,Yes,3,3,No,Yes,5.0,5.74,3.0
+Garima,Female,18,Varanasi,Student,7-8 hours,Healthy,No,9,2,No,No,2.0,8.49,4.0
+Ritvik,Male,30,Thane,Student,Less than 5 hours,Healthy,No,10,1,Yes,No,1.0,7.71,4.0
+Bhavesh,Male,25,Lucknow,Student,More than 8 hours,Unhealthy,Yes,4,4,No,Yes,3.0,6.79,2.0
+Krishna,Male,33,Nagpur,Student,5-6 hours,Moderate,Yes,7,5,Yes,Yes,4.0,6.1,4.0
+Pooja,Female,22,Chennai,Student,Less than 5 hours,Unhealthy,No,7,5,Yes,No,1.0,7.35,4.0
+Diya,Female,23,Hyderabad,Student,More than 8 hours,Healthy,No,8,4,No,Yes,4.0,9.78,1.0
+Sanya,Female,26,Faridabad,Student,More than 8 hours,Moderate,No,10,3,No,No,3.0,9.97,3.0
+Jhanvi,Female,27,Vadodara,Student,Less than 5 hours,Unhealthy,No,5,5,No,Yes,5.0,5.6,2.0
+Kashish,Female,32,Thane,Student,More than 8 hours,Unhealthy,Yes,0,2,No,No,1.0,9.39,4.0
+Dhruv,Male,26,Delhi,Student,Less than 5 hours,Moderate,No,7,5,Yes,No,1.0,9.24,2.0
+Aniket,Male,33,Lucknow,Student,7-8 hours,Healthy,Yes,11,1,Yes,No,4.0,5.37,4.0
+Kartikeya,Male,21,Thane,Student,5-6 hours,Healthy,No,5,2,No,No,3.0,9.06,5.0
+Ayaan,Male,30,Kalyan,Student,5-6 hours,Unhealthy,Yes,0,2,No,Yes,5.0,7.94,2.0
+Vanya,Female,24,Kolkata,Student,7-8 hours,Healthy,No,8,5,No,Yes,5.0,9.39,1.0
+Rashi,Female,26,Rajkot,Student,More than 8 hours,Healthy,No,7,4,Yes,No,4.0,5.7,5.0
+Barkha,Female,20,Bangalore,Student,More than 8 hours,Unhealthy,Yes,4,2,No,No,2.0,9.47,5.0
+Anika,Female,29,Patna,Student,7-8 hours,Healthy,Yes,5,5,Yes,Yes,3.0,5.75,3.0
+Ayush,Male,19,Ludhiana,Student,5-6 hours,Healthy,No,9,1,Yes,No,2.0,9.26,5.0
+Jasmine,Female,19,Hyderabad,Student,5-6 hours,Healthy,Yes,10,3,No,Yes,1.0,8.7,1.0
+Yamini,Female,25,Visakhapatnam,Student,More than 8 hours,Moderate,No,11,2,Yes,No,2.0,9.93,2.0
+Krishna,Male,18,Chennai,Student,5-6 hours,Moderate,No,3,4,No,Yes,5.0,7.99,5.0
+Vidhi,Female,22,Nagpur,Student,More than 8 hours,Unhealthy,Yes,7,5,No,Yes,2.0,8.04,5.0
+Harsha,Male,18,Rajkot,Student,Less than 5 hours,Moderate,Yes,9,1,No,Yes,3.0,5.42,4.0
+Pihu,Female,20,Surat,Student,7-8 hours,Healthy,Yes,0,5,No,No,1.0,9.72,3.0
+Rajat,Male,28,Kalyan,Student,5-6 hours,Healthy,No,4,1,Yes,No,2.0,9.11,5.0
+Nalini,Female,21,Chennai,Student,7-8 hours,Healthy,No,8,5,Yes,No,1.0,6.02,4.0
+Kanika,Female,20,Ludhiana,Student,7-8 hours,Unhealthy,No,2,2,Yes,No,1.0,6.37,3.0
+Karishma,Female,30,Bhopal,Student,More than 8 hours,Unhealthy,No,8,2,Yes,No,4.0,8.88,3.0
+Aditya,Male,31,Pune,Student,Less than 5 hours,Moderate,Yes,10,4,No,Yes,3.0,9.95,5.0
+Mihir,Male,22,Ahmedabad,Student,More than 8 hours,Unhealthy,No,10,1,Yes,Yes,4.0,8.14,2.0
+Kiran,Male,25,Bhopal,Student,7-8 hours,Unhealthy,Yes,2,1,No,No,3.0,8.0,5.0
+Tejas,Male,30,Kalyan,Student,Less than 5 hours,Unhealthy,No,2,5,Yes,Yes,5.0,7.82,1.0
+Sai,Male,30,Meerut,Student,Less than 5 hours,Moderate,Yes,0,1,No,No,1.0,5.44,5.0
+Mahika,Female,26,Patna,Student,5-6 hours,Unhealthy,Yes,0,1,No,Yes,4.0,8.17,1.0
+Shrey,Male,28,Lucknow,Student,More than 8 hours,Unhealthy,Yes,6,3,Yes,Yes,3.0,7.22,3.0
+Aahana,Female,30,Meerut,Student,5-6 hours,Healthy,Yes,10,3,No,No,3.0,9.21,5.0
+Kiran,Female,26,Ahmedabad,Student,More than 8 hours,Moderate,Yes,10,4,Yes,Yes,2.0,7.15,5.0
+Shanaya,Female,29,Bhopal,Student,7-8 hours,Moderate,Yes,6,2,Yes,Yes,5.0,8.95,5.0
+Anvi,Female,28,Vadodara,Student,5-6 hours,Healthy,Yes,3,4,Yes,No,1.0,5.83,2.0
+Parth,Male,20,Ahmedabad,Student,Less than 5 hours,Unhealthy,No,4,4,Yes,Yes,4.0,8.42,1.0
+Siddharth,Male,34,Pune,Student,Less than 5 hours,Moderate,Yes,11,5,No,Yes,5.0,7.43,3.0
+Jiya,Female,33,Delhi,Student,5-6 hours,Healthy,Yes,12,1,No,Yes,4.0,9.39,1.0
+Aditi,Female,19,Vasai-Virar,Student,5-6 hours,Healthy,No,5,2,Yes,Yes,4.0,9.12,3.0
+Rohan,Male,27,Nashik,Student,More than 8 hours,Moderate,Yes,4,3,No,Yes,4.0,8.44,2.0
+Shreya,Female,22,Agra,Student,Less than 5 hours,Healthy,Yes,7,5,No,Yes,3.0,8.04,5.0
+Mukund,Male,25,Lucknow,Student,Less than 5 hours,Healthy,No,9,1,Yes,Yes,5.0,7.38,2.0
+Tanisha,Female,20,Srinagar,Student,7-8 hours,Unhealthy,Yes,0,3,Yes,Yes,2.0,9.91,3.0
+Vidhi,Female,29,Surat,Student,Less than 5 hours,Moderate,Yes,12,1,No,Yes,2.0,9.19,2.0
+Anushka,Female,34,Hyderabad,Student,More than 8 hours,Healthy,Yes,6,3,No,No,3.0,8.29,4.0
+Nishant,Male,27,Hyderabad,Student,5-6 hours,Unhealthy,Yes,12,3,Yes,Yes,5.0,7.1,2.0
+Damini,Female,26,Jaipur,Student,Less than 5 hours,Unhealthy,No,6,5,Yes,Yes,3.0,5.56,2.0
+Dhruv,Male,34,Surat,Student,7-8 hours,Healthy,Yes,12,3,No,No,1.0,6.84,4.0
+Chhavi,Female,24,Kalyan,Student,5-6 hours,Moderate,Yes,5,3,No,Yes,2.0,5.77,2.0
+Darsh,Male,18,Vasai-Virar,Student,5-6 hours,Healthy,Yes,9,1,No,Yes,3.0,8.7,4.0
+Srishti,Female,28,Vadodara,Student,7-8 hours,Healthy,Yes,2,4,Yes,No,2.0,9.63,4.0
+Armaan,Male,18,Varanasi,Student,7-8 hours,Unhealthy,Yes,8,2,Yes,Yes,5.0,6.81,2.0
+Ishan,Male,19,Kolkata,Student,More than 8 hours,Moderate,No,2,3,No,Yes,5.0,5.6,1.0
+Pratyush,Male,33,Kalyan,Student,Less than 5 hours,Healthy,No,1,3,No,No,1.0,6.74,2.0
+Om,Male,20,Bangalore,Student,5-6 hours,Unhealthy,Yes,11,2,Yes,Yes,4.0,8.24,4.0
+Nirvaan,Male,29,Mumbai,Student,5-6 hours,Healthy,No,11,2,Yes,Yes,5.0,6.33,3.0
+Prisha,Female,33,Varanasi,Student,7-8 hours,Moderate,Yes,12,3,No,Yes,5.0,5.59,4.0
+Ayansh,Male,34,Agra,Student,More than 8 hours,Moderate,Yes,8,1,No,No,1.0,9.36,3.0
+Vibha,Female,24,Surat,Student,More than 8 hours,Healthy,Yes,0,5,Yes,Yes,2.0,8.9,3.0
+Nandini,Female,24,Hyderabad,Student,Less than 5 hours,Unhealthy,No,8,5,Yes,Yes,4.0,6.02,2.0
+Kavya,Female,25,Agra,Student,More than 8 hours,Moderate,No,0,4,Yes,No,3.0,9.04,2.0
+Aahana,Female,28,Delhi,Student,5-6 hours,Unhealthy,No,3,4,No,No,4.0,5.08,5.0
+Shaurya,Male,30,Patna,Student,5-6 hours,Moderate,Yes,10,3,No,No,1.0,5.11,5.0
+Barkha,Female,28,Chennai,Student,More than 8 hours,Healthy,Yes,12,5,Yes,Yes,4.0,5.17,3.0
+Ritika,Female,29,Kolkata,Student,Less than 5 hours,Moderate,No,5,2,Yes,No,3.0,8.95,2.0
+Kavya,Female,34,Vasai-Virar,Student,7-8 hours,Healthy,Yes,8,3,Yes,No,2.0,5.76,5.0
+Bhavna,Female,32,Ahmedabad,Student,7-8 hours,Moderate,No,6,1,No,No,2.0,5.99,3.0
+Armaan,Male,24,Delhi,Student,7-8 hours,Unhealthy,No,4,5,No,Yes,5.0,5.88,2.0
+Anirudh,Male,29,Ghaziabad,Student,More than 8 hours,Moderate,Yes,4,1,Yes,No,5.0,5.69,5.0
+Chhavi,Female,26,Jaipur,Student,5-6 hours,Healthy,No,12,5,No,No,2.0,5.45,3.0
+Advait,Male,29,Srinagar,Student,More than 8 hours,Moderate,No,6,2,No,No,4.0,8.28,5.0
+Apoorva,Female,25,Kanpur,Student,Less than 5 hours,Moderate,No,1,1,No,No,4.0,8.04,4.0
+Nikita,Female,28,Ludhiana,Student,5-6 hours,Healthy,Yes,3,5,No,Yes,5.0,9.31,2.0
+Shruti,Female,19,Mumbai,Student,More than 8 hours,Moderate,No,1,3,Yes,No,2.0,5.75,5.0
+Vikram,Male,24,Thane,Student,7-8 hours,Unhealthy,Yes,5,4,No,Yes,2.0,8.43,5.0
+Tina,Female,20,Pune,Student,5-6 hours,Unhealthy,Yes,10,5,No,Yes,3.0,6.36,2.0
+Aarush,Male,33,Meerut,Student,Less than 5 hours,Moderate,Yes,0,1,Yes,No,2.0,7.88,5.0
+Ishan,Male,27,Bhopal,Student,5-6 hours,Moderate,Yes,9,5,Yes,Yes,3.0,8.75,1.0
+Rahil,Male,24,Vadodara,Student,5-6 hours,Unhealthy,No,12,2,No,Yes,4.0,6.0,2.0
+Nishant,Male,32,Srinagar,Student,Less than 5 hours,Healthy,Yes,7,1,No,No,3.0,8.46,4.0
+Keshav,Male,33,Rajkot,Student,Less than 5 hours,Unhealthy,Yes,12,4,Yes,Yes,2.0,8.24,4.0
+Rohan,Male,27,Thane,Student,7-8 hours,Unhealthy,Yes,12,1,No,No,1.0,6.56,2.0
+Utkarsh,Male,25,Mumbai,Student,More than 8 hours,Moderate,No,4,5,No,Yes,5.0,9.7,2.0
+Nishant,Male,21,Bhopal,Student,More than 8 hours,Unhealthy,No,2,2,Yes,No,1.0,7.87,5.0
+Ishwar,Male,20,Delhi,Student,More than 8 hours,Unhealthy,No,3,1,No,No,2.0,5.51,3.0
+Dhruv,Male,33,Srinagar,Student,More than 8 hours,Moderate,No,7,3,No,No,3.0,7.26,4.0
+Rishi,Male,27,Jaipur,Student,Less than 5 hours,Moderate,No,2,5,Yes,No,2.0,7.1,5.0
+Jasmine,Female,31,Varanasi,Student,7-8 hours,Moderate,Yes,9,4,No,No,1.0,7.91,2.0
+Nakul,Male,26,Meerut,Student,5-6 hours,Moderate,No,8,3,Yes,No,2.0,5.82,1.0
+Aditi,Female,33,Indore,Student,Less than 5 hours,Moderate,No,6,3,Yes,No,5.0,7.72,4.0
+Asha,Female,18,Bangalore,Student,Less than 5 hours,Moderate,No,2,3,Yes,Yes,5.0,7.79,2.0
+Dev,Male,22,Srinagar,Student,7-8 hours,Unhealthy,Yes,12,4,No,Yes,5.0,8.35,2.0
+Rashi,Female,19,Pune,Student,7-8 hours,Healthy,Yes,10,2,No,Yes,3.0,8.63,4.0
+Aryan,Male,22,Ludhiana,Student,Less than 5 hours,Healthy,No,3,3,No,No,2.0,7.04,4.0
+Kian,Male,34,Surat,Student,Less than 5 hours,Moderate,Yes,3,2,Yes,No,4.0,5.27,5.0
+Yuvraj,Male,33,Visakhapatnam,Student,5-6 hours,Moderate,Yes,0,5,No,Yes,5.0,8.14,4.0
+Ansh,Male,20,Nagpur,Student,More than 8 hours,Unhealthy,No,0,3,Yes,No,2.0,6.99,3.0
+Ritvik,Male,22,Bhopal,Student,5-6 hours,Healthy,Yes,11,2,Yes,Yes,3.0,7.04,4.0
+Nandini,Female,29,Mumbai,Student,5-6 hours,Moderate,Yes,8,4,No,Yes,5.0,6.0,2.0
+Vani,Female,27,Chennai,Student,Less than 5 hours,Healthy,No,3,4,No,No,2.0,8.09,2.0
+Janvi,Female,28,Vadodara,Student,Less than 5 hours,Moderate,No,2,1,No,No,4.0,7.7,4.0
+Himani,Female,30,Nagpur,Student,Less than 5 hours,Healthy,No,10,4,No,No,2.0,7.92,2.0
+Arya,Male,34,Meerut,Student,5-6 hours,Moderate,No,12,2,No,No,2.0,7.1,3.0
+Kashish,Female,18,Vasai-Virar,Student,More than 8 hours,Healthy,No,10,1,Yes,Yes,4.0,8.77,1.0
+Raunak,Male,20,Chennai,Student,Less than 5 hours,Healthy,No,3,3,Yes,No,3.0,8.58,4.0
+Rahil,Male,19,Nashik,Student,Less than 5 hours,Healthy,Yes,7,3,No,Yes,5.0,6.21,1.0
+Yash,Male,26,Rajkot,Student,7-8 hours,Healthy,No,5,4,Yes,No,4.0,8.54,3.0
+Palak,Female,25,Varanasi,Student,7-8 hours,Unhealthy,No,9,5,No,No,3.0,9.05,5.0
+Gagan,Male,32,Ludhiana,Student,More than 8 hours,Healthy,No,2,3,Yes,No,5.0,9.59,1.0
+Vedant,Male,19,Bhopal,Student,More than 8 hours,Moderate,Yes,2,2,No,Yes,4.0,9.6,1.0
+Abhishek,Male,27,Jaipur,Student,More than 8 hours,Unhealthy,No,3,3,No,No,2.0,5.12,4.0
+Eshita,Female,24,Bangalore,Student,More than 8 hours,Moderate,Yes,6,5,No,Yes,5.0,8.91,1.0
+Amit,Male,32,Ghaziabad,Student,More than 8 hours,Healthy,No,7,1,No,No,5.0,9.34,3.0
+Rajat,Male,24,Kanpur,Student,5-6 hours,Healthy,No,9,2,Yes,No,2.0,7.47,2.0
+Mira,Female,34,Pune,Student,More than 8 hours,Healthy,Yes,5,4,No,Yes,3.0,7.83,1.0
+Simran,Female,29,Ahmedabad,Student,More than 8 hours,Moderate,Yes,6,5,No,Yes,3.0,9.6,4.0
+Anushka,Female,19,Bhopal,Student,7-8 hours,Moderate,Yes,4,4,Yes,Yes,4.0,8.96,5.0
+Shivam,Male,33,Srinagar,Student,More than 8 hours,Moderate,No,5,1,No,No,3.0,7.88,2.0
+Ritvik,Male,22,Meerut,Student,Less than 5 hours,Unhealthy,Yes,12,2,No,Yes,2.0,6.29,1.0
+Rudra,Male,24,Varanasi,Student,More than 8 hours,Unhealthy,Yes,0,2,Yes,No,1.0,6.04,2.0
+Vivaan,Male,29,Bhopal,Student,7-8 hours,Unhealthy,Yes,1,3,Yes,Yes,3.0,6.26,3.0
+Manan,Male,32,Bhopal,Student,Less than 5 hours,Moderate,Yes,3,1,Yes,Yes,5.0,8.74,1.0
+Prisha,Female,25,Thane,Student,5-6 hours,Healthy,No,4,2,No,No,3.0,8.28,4.0
+Kriti,Female,20,Hyderabad,Student,More than 8 hours,Healthy,Yes,6,4,Yes,Yes,4.0,9.5,5.0
+Kriti,Female,23,Surat,Student,5-6 hours,Healthy,No,12,3,No,Yes,5.0,7.83,1.0
+Gaurav,Male,27,Jaipur,Student,Less than 5 hours,Healthy,No,5,2,Yes,No,1.0,6.47,5.0
+Eshita,Female,29,Surat,Student,Less than 5 hours,Unhealthy,Yes,4,5,No,Yes,1.0,6.69,2.0
+Zoya,Female,20,Kolkata,Student,5-6 hours,Unhealthy,No,4,5,No,Yes,4.0,7.92,1.0
+Aditya,Male,34,Vasai-Virar,Student,7-8 hours,Moderate,Yes,4,5,No,No,3.0,5.12,5.0
+Aakash,Male,32,Vadodara,Student,5-6 hours,Healthy,Yes,8,4,Yes,Yes,3.0,9.84,3.0
+Ivaan,Male,33,Indore,Student,Less than 5 hours,Healthy,No,10,2,No,Yes,5.0,5.74,1.0
+Aadhya,Female,28,Meerut,Student,Less than 5 hours,Unhealthy,Yes,4,1,No,Yes,5.0,8.81,2.0
+Neha,Female,20,Surat,Student,5-6 hours,Moderate,Yes,11,4,No,Yes,4.0,6.99,5.0
+Vaishnavi,Female,29,Pune,Student,5-6 hours,Healthy,No,9,1,No,No,3.0,6.83,5.0
+Aishwarya,Female,25,Ludhiana,Student,More than 8 hours,Unhealthy,No,4,5,No,No,2.0,8.93,2.0
+Rupak,Male,23,Patna,Student,Less than 5 hours,Healthy,No,8,2,No,No,3.0,10.0,1.0
+Chhavi,Female,28,Thane,Student,Less than 5 hours,Healthy,No,3,5,No,No,4.0,8.13,2.0
+Reyansh,Male,25,Kanpur,Student,Less than 5 hours,Moderate,No,1,3,Yes,Yes,4.0,6.25,2.0
+Samar,Male,26,Srinagar,Student,More than 8 hours,Unhealthy,Yes,3,3,No,Yes,2.0,9.03,1.0
+Ishaan,Male,33,Patna,Student,7-8 hours,Unhealthy,Yes,6,3,No,Yes,4.0,8.39,3.0
+Rohan,Male,27,Agra,Student,7-8 hours,Healthy,Yes,8,1,No,Yes,5.0,5.84,2.0
+Kiran,Male,23,Bangalore,Student,5-6 hours,Moderate,No,8,5,No,Yes,3.0,9.44,2.0
+Rajveer,Male,19,Ghaziabad,Student,Less than 5 hours,Moderate,No,1,4,No,No,2.0,7.02,5.0
+Chhavi,Female,25,Jaipur,Student,5-6 hours,Healthy,No,5,2,No,No,4.0,5.46,4.0
+Tanmay,Male,27,Lucknow,Student,Less than 5 hours,Healthy,Yes,5,4,Yes,Yes,2.0,8.74,4.0
+Suhani,Female,18,Ludhiana,Student,Less than 5 hours,Unhealthy,No,11,5,Yes,Yes,1.0,9.88,5.0
+Yuvraj,Male,32,Hyderabad,Student,Less than 5 hours,Unhealthy,Yes,9,5,No,Yes,2.0,8.97,5.0
+Ansh,Male,28,Nashik,Student,5-6 hours,Moderate,Yes,2,4,No,No,2.0,5.7,5.0
+Manvi,Female,24,Mumbai,Student,Less than 5 hours,Healthy,Yes,3,5,Yes,Yes,4.0,6.23,3.0
+Aryan,Male,28,Kalyan,Student,More than 8 hours,Healthy,Yes,10,2,No,Yes,5.0,7.85,5.0
+Samaira,Female,28,Patna,Student,More than 8 hours,Moderate,No,8,3,Yes,Yes,5.0,8.96,1.0
+Shruti,Female,20,Chennai,Student,More than 8 hours,Unhealthy,No,8,3,Yes,Yes,5.0,8.58,4.0
+Yash,Male,31,Ghaziabad,Student,Less than 5 hours,Healthy,Yes,4,3,No,No,1.0,7.21,3.0
+Ishaan,Male,30,Ludhiana,Student,Less than 5 hours,Healthy,Yes,6,3,No,No,2.0,6.78,3.0
+Naina,Female,21,Kalyan,Student,Less than 5 hours,Moderate,No,12,1,No,No,1.0,6.82,1.0
+Damini,Female,19,Faridabad,Student,5-6 hours,Healthy,No,3,3,No,No,3.0,7.6,5.0
+Aniket,Male,23,Bhopal,Student,5-6 hours,Healthy,Yes,10,5,Yes,Yes,3.0,9.93,5.0
+Monika,Female,24,Nashik,Student,Less than 5 hours,Moderate,No,0,3,Yes,No,1.0,9.74,1.0
+Kriti,Female,34,Bangalore,Student,More than 8 hours,Moderate,No,12,5,No,No,3.0,9.84,3.0
+Arnav,Male,20,Ludhiana,Student,More than 8 hours,Healthy,Yes,6,5,Yes,Yes,3.0,5.67,3.0
+Ansh,Male,23,Bhopal,Student,7-8 hours,Unhealthy,Yes,7,2,No,Yes,1.0,6.37,1.0
+Mahi,Female,34,Chennai,Student,More than 8 hours,Moderate,No,11,3,No,No,1.0,5.86,4.0
+Sai,Male,33,Pune,Student,More than 8 hours,Moderate,Yes,8,1,No,No,4.0,5.71,5.0
+Keshav,Male,18,Agra,Student,More than 8 hours,Healthy,No,7,1,Yes,No,5.0,6.08,5.0
+Vihaan,Male,18,Meerut,Student,7-8 hours,Healthy,Yes,6,2,No,Yes,5.0,7.25,5.0
+Aariv,Male,34,Meerut,Student,7-8 hours,Moderate,No,7,3,No,No,3.0,9.71,1.0
+Arnav,Male,34,Hyderabad,Student,5-6 hours,Healthy,No,7,1,No,No,1.0,8.71,1.0
+Prisha,Female,20,Kanpur,Student,7-8 hours,Healthy,Yes,12,3,Yes,Yes,4.0,5.91,3.0
+Hrithik,Male,34,Nagpur,Student,5-6 hours,Moderate,No,4,3,Yes,No,3.0,6.1,2.0
+Arav,Male,29,Kolkata,Student,More than 8 hours,Unhealthy,No,1,2,Yes,No,1.0,9.98,3.0
+Kiran,Female,19,Visakhapatnam,Student,Less than 5 hours,Moderate,No,6,2,Yes,No,4.0,5.85,5.0
+Kashish,Female,19,Agra,Student,More than 8 hours,Unhealthy,No,6,2,Yes,No,1.0,6.52,1.0
+Siddharth,Male,28,Lucknow,Student,7-8 hours,Moderate,Yes,10,5,No,Yes,1.0,9.91,3.0
+Tejas,Male,34,Nagpur,Student,More than 8 hours,Unhealthy,No,7,1,No,No,4.0,5.74,3.0
+Saanvi,Female,32,Jaipur,Student,Less than 5 hours,Unhealthy,Yes,0,3,Yes,Yes,5.0,6.27,4.0
+Vidhi,Female,25,Kolkata,Student,5-6 hours,Moderate,No,3,5,No,No,2.0,7.53,5.0
+Hrithik,Male,30,Kolkata,Student,7-8 hours,Moderate,No,10,1,No,No,3.0,8.19,1.0
+Gauri,Female,33,Nashik,Student,7-8 hours,Healthy,No,2,2,No,No,4.0,5.06,3.0
+Rupa,Female,23,Kalyan,Student,5-6 hours,Healthy,No,8,4,Yes,No,1.0,5.32,1.0
+Shlok,Male,28,Bangalore,Student,More than 8 hours,Moderate,Yes,6,4,No,Yes,5.0,8.21,4.0
+Kiran,Male,33,Srinagar,Student,More than 8 hours,Moderate,Yes,11,1,Yes,Yes,5.0,5.66,5.0
+Lavanya,Female,31,Delhi,Student,7-8 hours,Moderate,No,0,2,Yes,No,3.0,7.17,4.0
+Saurav,Male,32,Agra,Student,7-8 hours,Moderate,Yes,8,2,Yes,Yes,3.0,9.02,2.0
+Nishant,Male,30,Kolkata,Student,5-6 hours,Moderate,Yes,10,2,Yes,Yes,5.0,9.96,1.0
+Abhishek,Male,34,Kolkata,Student,7-8 hours,Healthy,No,4,3,No,No,1.0,9.01,4.0
+Neil,Male,21,Bangalore,Student,5-6 hours,Unhealthy,No,9,5,No,No,1.0,8.35,4.0
+Khushi,Female,22,Vasai-Virar,Student,5-6 hours,Healthy,Yes,8,2,No,Yes,4.0,8.07,2.0
+Manan,Male,33,Kanpur,Student,Less than 5 hours,Unhealthy,Yes,8,3,Yes,Yes,4.0,9.29,3.0
+Ivaan,Male,23,Meerut,Student,5-6 hours,Moderate,No,8,2,No,Yes,4.0,5.26,1.0
+Aditi,Female,18,Vadodara,Student,7-8 hours,Unhealthy,No,7,2,No,Yes,4.0,7.25,4.0
+Anand,Male,20,Ahmedabad,Student,5-6 hours,Healthy,No,9,5,No,Yes,4.0,9.21,3.0
+Satyam,Male,29,Ghaziabad,Student,Less than 5 hours,Unhealthy,No,11,5,Yes,Yes,5.0,6.65,5.0
+Anand,Male,18,Vasai-Virar,Student,Less than 5 hours,Unhealthy,No,5,4,Yes,No,1.0,9.44,4.0
+Ivaan,Male,28,Nagpur,Student,5-6 hours,Unhealthy,No,11,1,Yes,Yes,4.0,8.85,2.0
+Siddhesh,Male,31,Varanasi,Student,5-6 hours,Unhealthy,No,0,1,No,No,2.0,8.17,4.0
+Reyansh,Male,20,Srinagar,Student,More than 8 hours,Moderate,No,7,2,No,No,1.0,8.5,3.0
+Simran,Female,24,Visakhapatnam,Student,More than 8 hours,Unhealthy,Yes,11,3,Yes,Yes,3.0,6.99,1.0
+Himani,Female,20,Lucknow,Student,7-8 hours,Moderate,Yes,2,1,Yes,Yes,3.0,6.91,2.0
+Charvi,Female,28,Vasai-Virar,Student,Less than 5 hours,Healthy,Yes,10,3,Yes,Yes,3.0,7.28,2.0
+Siddhi,Female,30,Thane,Student,More than 8 hours,Moderate,Yes,10,1,No,No,3.0,7.94,3.0
+Aditya,Male,33,Srinagar,Student,5-6 hours,Healthy,Yes,1,4,No,No,3.0,7.07,5.0
+Siddhi,Female,24,Agra,Student,7-8 hours,Moderate,No,0,4,Yes,No,4.0,8.21,4.0
+Saanvi,Female,33,Rajkot,Student,Less than 5 hours,Healthy,Yes,10,3,Yes,Yes,4.0,6.0,1.0
+Anushka,Female,31,Indore,Student,More than 8 hours,Unhealthy,Yes,0,1,No,No,1.0,7.53,4.0
+Pooja,Female,31,Visakhapatnam,Student,7-8 hours,Healthy,Yes,2,5,Yes,Yes,5.0,5.52,1.0
+Ishan,Male,26,Surat,Student,5-6 hours,Moderate,Yes,6,3,Yes,Yes,4.0,5.16,3.0
+Nikhil,Male,33,Meerut,Student,More than 8 hours,Unhealthy,Yes,6,5,Yes,No,2.0,9.54,5.0
+Anika,Female,33,Jaipur,Student,7-8 hours,Healthy,No,12,4,Yes,No,4.0,6.89,5.0
+Aryan,Male,21,Thane,Student,Less than 5 hours,Moderate,No,2,2,No,No,1.0,7.77,4.0
+Aryan,Male,24,Ghaziabad,Student,Less than 5 hours,Unhealthy,No,9,5,No,No,1.0,7.5,4.0
+Veda,Female,32,Vasai-Virar,Student,Less than 5 hours,Healthy,Yes,11,4,No,Yes,4.0,9.21,3.0
+Raunak,Male,33,Nagpur,Student,5-6 hours,Moderate,No,12,2,No,No,3.0,8.91,1.0
+Eshita,Female,23,Kolkata,Student,More than 8 hours,Unhealthy,Yes,1,4,No,Yes,4.0,6.37,4.0
+Ishita,Female,19,Kalyan,Student,7-8 hours,Moderate,Yes,12,5,No,Yes,4.0,5.64,5.0
+Tara,Female,23,Pune,Student,More than 8 hours,Healthy,No,1,1,Yes,No,2.0,5.32,2.0
+Vidya,Female,21,Visakhapatnam,Student,5-6 hours,Unhealthy,No,11,1,No,No,1.0,9.25,3.0
+Yogesh,Male,34,Bhopal,Student,More than 8 hours,Unhealthy,Yes,11,2,Yes,No,1.0,7.22,3.0
+Atharv,Male,20,Hyderabad,Student,7-8 hours,Healthy,No,11,2,Yes,Yes,4.0,8.69,3.0
+Pihu,Female,28,Thane,Student,Less than 5 hours,Moderate,Yes,0,2,Yes,No,1.0,5.57,3.0
+Rupak,Male,26,Varanasi,Student,More than 8 hours,Moderate,Yes,4,5,No,Yes,4.0,5.24,1.0
+Raunak,Male,27,Faridabad,Student,7-8 hours,Healthy,Yes,10,1,No,No,1.0,8.78,2.0
+Shiv,Male,31,Faridabad,Student,Less than 5 hours,Healthy,Yes,12,2,Yes,Yes,5.0,9.74,5.0
+Hrithik,Male,25,Hyderabad,Student,More than 8 hours,Moderate,No,2,4,Yes,No,2.0,9.89,3.0
+Shivam,Male,20,Surat,Student,More than 8 hours,Healthy,Yes,0,1,No,No,1.0,8.56,3.0
+Vihaan,Male,33,Mumbai,Student,Less than 5 hours,Healthy,No,12,1,Yes,No,3.0,7.1,3.0
+Aaradhya,Female,25,Srinagar,Student,5-6 hours,Unhealthy,Yes,12,4,Yes,Yes,3.0,7.46,3.0
+Ayaan,Male,19,Chennai,Student,5-6 hours,Healthy,Yes,11,3,Yes,Yes,5.0,8.59,2.0
+Nandini,Female,21,Vasai-Virar,Student,More than 8 hours,Moderate,No,11,3,No,Yes,5.0,8.52,1.0
+Aishwarya,Female,24,Hyderabad,Student,Less than 5 hours,Healthy,Yes,11,2,No,Yes,4.0,5.64,4.0
+Varun,Male,26,Mumbai,Student,7-8 hours,Healthy,Yes,7,4,Yes,Yes,4.0,8.83,3.0
+Siddhesh,Male,21,Kalyan,Student,5-6 hours,Healthy,Yes,9,4,No,Yes,1.0,7.85,2.0
+Vivan,Male,25,Patna,Student,More than 8 hours,Unhealthy,No,7,3,No,Yes,5.0,6.75,3.0
+Shaurya,Male,33,Patna,Student,Less than 5 hours,Moderate,No,4,5,No,Yes,4.0,9.94,1.0
+Kanika,Female,23,Kalyan,Student,7-8 hours,Healthy,No,3,4,Yes,Yes,5.0,6.05,1.0
+Mahika,Female,18,Srinagar,Student,7-8 hours,Moderate,Yes,9,1,No,Yes,5.0,9.63,4.0
+Radhika,Female,27,Meerut,Student,Less than 5 hours,Unhealthy,No,9,2,No,No,5.0,9.11,5.0
+Sneha,Female,20,Indore,Student,Less than 5 hours,Moderate,No,12,3,Yes,Yes,3.0,5.8,4.0
+Navya,Female,21,Lucknow,Student,More than 8 hours,Unhealthy,No,11,5,No,Yes,5.0,5.82,1.0
+Trisha,Female,28,Varanasi,Student,5-6 hours,Healthy,No,10,5,Yes,No,2.0,6.92,4.0
+Esha,Female,24,Vasai-Virar,Student,5-6 hours,Unhealthy,No,5,2,No,No,2.0,9.4,4.0
+Srishti,Female,23,Thane,Student,7-8 hours,Unhealthy,Yes,10,4,Yes,Yes,2.0,9.72,1.0
+Jiya,Female,24,Faridabad,Student,5-6 hours,Moderate,Yes,7,3,No,Yes,5.0,9.95,2.0
+Tanya,Female,34,Bhopal,Student,5-6 hours,Healthy,No,11,4,No,No,2.0,9.86,5.0
+Asha,Female,30,Lucknow,Student,5-6 hours,Moderate,No,12,1,Yes,No,3.0,7.27,3.0
+Hrithik,Male,19,Ahmedabad,Student,More than 8 hours,Unhealthy,Yes,8,1,No,Yes,3.0,8.04,3.0
+Bhavna,Female,30,Mumbai,Student,7-8 hours,Moderate,Yes,9,2,No,Yes,5.0,7.94,2.0
+Ritvik,Male,22,Kalyan,Student,Less than 5 hours,Healthy,Yes,5,4,No,Yes,3.0,7.64,4.0
+Ira,Female,18,Kolkata,Student,5-6 hours,Unhealthy,Yes,12,5,Yes,Yes,4.0,5.42,3.0
+Satyam,Male,32,Nagpur,Student,More than 8 hours,Healthy,Yes,10,2,No,No,5.0,6.16,5.0
+Aarav,Male,18,Ludhiana,Student,5-6 hours,Healthy,Yes,8,4,Yes,Yes,3.0,5.03,4.0
+Jai,Male,21,Agra,Student,5-6 hours,Moderate,No,7,3,Yes,No,1.0,9.88,3.0
+Ivaan,Male,24,Nagpur,Student,Less than 5 hours,Moderate,Yes,8,3,No,Yes,3.0,8.54,4.0
+Sanya,Female,34,Lucknow,Student,More than 8 hours,Moderate,Yes,4,5,No,No,3.0,5.9,5.0
+Shivam,Male,34,Kanpur,Student,Less than 5 hours,Moderate,No,7,4,Yes,No,1.0,9.97,2.0
+Vikram,Male,19,Hyderabad,Student,7-8 hours,Healthy,Yes,5,2,Yes,Yes,5.0,7.77,3.0
+Nikhil,Male,23,Pune,Student,Less than 5 hours,Moderate,No,11,2,Yes,No,1.0,8.47,5.0
+Abhinav,Male,25,Hyderabad,Student,More than 8 hours,Moderate,Yes,2,4,No,Yes,2.0,8.59,2.0
+Darsh,Male,19,Ghaziabad,Student,Less than 5 hours,Unhealthy,No,10,4,No,Yes,3.0,5.37,1.0
+Anaya,Female,25,Lucknow,Student,7-8 hours,Healthy,No,12,4,Yes,No,1.0,5.57,2.0
+Yuvraj,Male,29,Jaipur,Student,More than 8 hours,Unhealthy,No,1,4,Yes,Yes,5.0,5.88,2.0
+Neil,Male,30,Surat,Student,5-6 hours,Moderate,No,0,4,No,No,3.0,9.5,2.0
+Gagan,Male,29,Kalyan,Student,7-8 hours,Moderate,No,1,2,No,No,2.0,9.66,3.0
+Aarav,Male,31,Hyderabad,Student,More than 8 hours,Healthy,Yes,7,2,No,Yes,4.0,9.41,1.0
+Vivan,Male,25,Agra,Student,7-8 hours,Unhealthy,Yes,12,4,No,Yes,1.0,8.74,4.0
+Tanya,Female,18,Vasai-Virar,Student,More than 8 hours,Moderate,Yes,7,5,No,Yes,1.0,5.12,5.0
+Sai,Male,33,Kalyan,Student,More than 8 hours,Unhealthy,Yes,9,1,Yes,No,3.0,9.85,4.0
+Aarav,Male,32,Nashik,Student,7-8 hours,Unhealthy,Yes,0,4,Yes,No,1.0,8.09,3.0
+Tushar,Male,29,Mumbai,Student,More than 8 hours,Unhealthy,No,10,5,No,No,2.0,8.04,4.0
+Abhishek,Male,28,Varanasi,Student,Less than 5 hours,Healthy,No,1,2,No,No,5.0,8.17,3.0
+Veda,Female,21,Visakhapatnam,Student,More than 8 hours,Unhealthy,No,0,5,No,Yes,5.0,6.86,4.0
+Pranav,Male,31,Visakhapatnam,Student,Less than 5 hours,Moderate,No,10,3,No,No,2.0,8.24,3.0
+Anjali,Female,34,Pune,Student,Less than 5 hours,Moderate,Yes,3,5,No,No,3.0,6.27,5.0
+Eshita,Female,30,Visakhapatnam,Student,5-6 hours,Healthy,Yes,4,3,Yes,No,3.0,8.92,4.0
+Jiya,Female,28,Delhi,Student,5-6 hours,Unhealthy,Yes,6,3,Yes,Yes,4.0,8.59,3.0
+Atharv,Male,29,Surat,Student,More than 8 hours,Unhealthy,No,2,1,No,No,1.0,9.44,5.0
+Saanvi,Female,30,Agra,Student,7-8 hours,Unhealthy,Yes,2,3,No,No,2.0,6.51,3.0
+Kashish,Female,30,Chennai,Student,More than 8 hours,Unhealthy,No,12,1,Yes,No,5.0,9.46,4.0
+Rupal,Female,24,Nashik,Student,5-6 hours,Healthy,No,6,4,Yes,Yes,3.0,8.37,1.0
+Lata,Female,27,Ghaziabad,Student,7-8 hours,Unhealthy,No,7,1,Yes,Yes,5.0,8.01,1.0
+Vidya,Female,32,Delhi,Student,Less than 5 hours,Unhealthy,Yes,4,1,No,No,4.0,5.25,4.0
+Gagan,Male,25,Agra,Student,Less than 5 hours,Unhealthy,No,1,4,No,Yes,4.0,9.24,3.0
+Aarti,Female,24,Agra,Student,5-6 hours,Healthy,No,11,2,Yes,No,1.0,9.87,5.0
+Shivansh,Male,22,Agra,Student,5-6 hours,Moderate,No,2,4,Yes,No,3.0,5.14,4.0
+Abhishek,Male,20,Srinagar,Student,More than 8 hours,Unhealthy,Yes,8,5,Yes,Yes,2.0,6.21,5.0
+Ira,Female,18,Lucknow,Student,7-8 hours,Moderate,No,4,1,Yes,No,3.0,5.41,5.0
+Amit,Male,20,Pune,Student,5-6 hours,Moderate,Yes,8,5,No,Yes,3.0,6.41,3.0
+Rahil,Male,20,Rajkot,Student,More than 8 hours,Unhealthy,Yes,9,2,No,Yes,3.0,8.03,1.0
+Yogesh,Male,18,Kalyan,Student,7-8 hours,Moderate,No,6,3,No,No,3.0,8.65,3.0
+Ayaan,Male,27,Lucknow,Student,5-6 hours,Unhealthy,No,7,2,Yes,No,2.0,5.68,3.0
+Ira,Female,31,Ghaziabad,Student,5-6 hours,Moderate,No,8,1,Yes,No,1.0,7.64,3.0
+Tanisha,Female,22,Thane,Student,7-8 hours,Unhealthy,Yes,10,2,Yes,Yes,1.0,6.78,4.0
+Abhishek,Male,34,Vasai-Virar,Student,Less than 5 hours,Moderate,Yes,6,4,No,Yes,5.0,7.08,1.0
+Ranveer,Male,32,Kanpur,Student,Less than 5 hours,Unhealthy,Yes,7,1,No,Yes,2.0,7.47,1.0
+Vanya,Female,22,Hyderabad,Student,5-6 hours,Unhealthy,No,0,3,No,No,5.0,5.09,5.0
+Naina,Female,21,Visakhapatnam,Student,5-6 hours,Healthy,Yes,1,4,Yes,Yes,2.0,8.5,1.0
+Yashvi,Female,34,Kanpur,Student,Less than 5 hours,Moderate,Yes,1,1,Yes,No,2.0,9.43,5.0
+Arnav,Male,29,Hyderabad,Student,7-8 hours,Unhealthy,Yes,5,5,No,Yes,5.0,7.49,4.0
+Siddhi,Female,26,Srinagar,Student,More than 8 hours,Healthy,No,4,2,Yes,No,4.0,9.69,2.0
+Leela,Female,27,Lucknow,Student,5-6 hours,Healthy,No,1,4,No,No,4.0,7.77,2.0
+Yogesh,Male,30,Mumbai,Student,7-8 hours,Moderate,Yes,10,5,Yes,Yes,3.0,7.09,2.0
+Vedant,Male,24,Surat,Student,Less than 5 hours,Healthy,No,6,1,Yes,No,3.0,6.53,5.0
+Rohan,Male,27,Kanpur,Student,5-6 hours,Healthy,No,11,1,No,No,3.0,6.28,4.0
+Vedant,Male,31,Patna,Student,More than 8 hours,Unhealthy,No,10,5,Yes,Yes,5.0,5.72,2.0
+Kiara,Female,30,Jaipur,Student,7-8 hours,Healthy,No,6,4,Yes,No,5.0,9.93,4.0
+Ritvik,Male,30,Surat,Student,5-6 hours,Moderate,No,4,4,Yes,No,3.0,6.41,3.0
+Ritika,Female,32,Agra,Student,Less than 5 hours,Healthy,Yes,5,4,Yes,No,1.0,8.25,3.0
+Atharv,Male,33,Ludhiana,Student,More than 8 hours,Unhealthy,No,9,3,Yes,No,2.0,5.64,5.0
+Jiya,Female,30,Lucknow,Student,Less than 5 hours,Unhealthy,No,9,1,No,Yes,5.0,8.55,1.0
+Aarush,Male,19,Delhi,Student,More than 8 hours,Unhealthy,No,6,3,No,No,2.0,7.13,4.0
+Avni,Female,21,Meerut,Student,5-6 hours,Moderate,Yes,2,2,No,No,1.0,9.41,2.0
+Rhea,Female,18,Bangalore,Student,More than 8 hours,Moderate,No,3,1,Yes,No,3.0,9.67,1.0
+Sanjeev,Male,34,Bangalore,Student,7-8 hours,Unhealthy,Yes,1,2,No,No,3.0,9.24,4.0
+Vrinda,Female,31,Srinagar,Student,Less than 5 hours,Healthy,Yes,8,5,Yes,Yes,5.0,9.86,2.0
+Utkarsh,Male,23,Rajkot,Student,5-6 hours,Moderate,No,4,1,No,No,4.0,6.03,5.0
+Nisha,Female,21,Surat,Student,7-8 hours,Moderate,No,11,3,No,No,1.0,7.09,1.0
+Arya,Male,23,Nagpur,Student,7-8 hours,Unhealthy,Yes,11,1,Yes,Yes,3.0,9.56,3.0
+Kabir,Male,28,Nagpur,Student,Less than 5 hours,Healthy,Yes,7,5,No,Yes,4.0,5.39,3.0
+Monika,Female,28,Srinagar,Student,7-8 hours,Unhealthy,Yes,5,1,Yes,No,3.0,6.95,5.0
+Eshita,Female,33,Chennai,Student,More than 8 hours,Unhealthy,No,12,5,No,No,1.0,5.56,4.0
+Ishita,Female,29,Nagpur,Student,7-8 hours,Unhealthy,Yes,4,2,Yes,Yes,4.0,6.47,3.0
+Shlok,Male,23,Nashik,Student,5-6 hours,Unhealthy,Yes,1,4,No,Yes,1.0,8.14,1.0
+Divya,Female,33,Bangalore,Student,Less than 5 hours,Moderate,No,10,4,Yes,No,1.0,5.59,1.0
+Nisha,Female,28,Meerut,Student,Less than 5 hours,Healthy,No,3,1,No,No,3.0,5.1,3.0
+Siddhi,Female,19,Bangalore,Student,More than 8 hours,Moderate,No,2,1,Yes,No,1.0,7.25,5.0
+Tushar,Male,24,Rajkot,Student,7-8 hours,Moderate,No,4,1,No,No,4.0,7.61,5.0
+Tanya,Female,28,Patna,Student,7-8 hours,Healthy,No,2,3,Yes,No,1.0,5.79,1.0
+Pratyush,Male,34,Ludhiana,Student,5-6 hours,Healthy,No,4,2,Yes,No,3.0,7.8,4.0
+Amit,Male,29,Srinagar,Student,5-6 hours,Unhealthy,Yes,2,5,Yes,Yes,1.0,9.96,3.0
+Anvi,Female,24,Kalyan,Student,7-8 hours,Unhealthy,Yes,4,5,Yes,Yes,4.0,5.16,5.0
+Pooja,Female,29,Chennai,Student,7-8 hours,Moderate,No,12,5,No,Yes,5.0,8.9,3.0
+Chhavi,Female,18,Nashik,Student,7-8 hours,Moderate,No,8,2,No,No,2.0,5.55,5.0
+Ishaani,Female,21,Chennai,Student,7-8 hours,Unhealthy,Yes,6,1,Yes,Yes,3.0,5.74,2.0
+Anaya,Female,28,Vasai-Virar,Student,More than 8 hours,Moderate,No,0,3,No,No,4.0,7.37,2.0
+Harsh,Male,19,Kolkata,Student,5-6 hours,Moderate,No,11,1,Yes,Yes,4.0,7.3,2.0
+Rahil,Male,26,Vasai-Virar,Student,Less than 5 hours,Unhealthy,Yes,11,1,Yes,Yes,5.0,5.38,4.0
+Anvi,Female,27,Srinagar,Student,5-6 hours,Unhealthy,No,2,4,Yes,Yes,4.0,9.13,2.0
+Nisha,Female,22,Bhopal,Student,7-8 hours,Moderate,Yes,5,1,Yes,Yes,5.0,8.79,2.0
+Navya,Female,27,Ghaziabad,Student,5-6 hours,Healthy,No,0,2,No,No,3.0,7.08,4.0
+Aadhya,Female,31,Faridabad,Student,More than 8 hours,Healthy,No,6,2,No,No,5.0,7.88,4.0
+Sanket,Male,28,Pune,Student,More than 8 hours,Healthy,No,3,1,Yes,No,3.0,5.85,2.0
+Mihir,Male,29,Patna,Student,7-8 hours,Moderate,No,6,1,Yes,No,3.0,6.38,3.0
+Kashish,Female,27,Hyderabad,Student,5-6 hours,Unhealthy,Yes,7,2,No,Yes,5.0,9.6,2.0
+Zara,Female,24,Kolkata,Student,5-6 hours,Moderate,Yes,9,5,No,Yes,1.0,7.15,2.0
+Rishi,Male,31,Srinagar,Student,More than 8 hours,Healthy,No,4,4,Yes,No,1.0,8.81,4.0
+Ishita,Female,32,Srinagar,Student,7-8 hours,Moderate,Yes,7,3,Yes,Yes,3.0,7.51,1.0
+Kavya,Female,24,Faridabad,Student,7-8 hours,Unhealthy,Yes,10,5,Yes,Yes,1.0,8.44,5.0
+Janvi,Female,25,Ghaziabad,Student,7-8 hours,Unhealthy,No,9,4,No,Yes,5.0,8.73,5.0
+Vani,Female,31,Ahmedabad,Student,7-8 hours,Moderate,Yes,10,4,Yes,Yes,4.0,7.5,5.0
+Harini,Female,34,Vadodara,Student,7-8 hours,Moderate,No,10,1,No,No,2.0,7.14,4.0
+Charvi,Female,32,Vasai-Virar,Student,5-6 hours,Moderate,Yes,12,1,No,No,3.0,8.95,4.0
+Vidhi,Female,22,Chennai,Student,More than 8 hours,Healthy,Yes,3,4,No,No,1.0,5.47,2.0
+Esha,Female,29,Vasai-Virar,Student,5-6 hours,Healthy,Yes,10,1,Yes,Yes,3.0,8.4,3.0
+Asha,Female,25,Chennai,Student,7-8 hours,Healthy,No,9,3,No,No,3.0,6.59,1.0
+Aditya,Male,27,Srinagar,Student,Less than 5 hours,Healthy,Yes,6,3,Yes,Yes,5.0,7.52,5.0
+Siddhi,Female,18,Indore,Student,5-6 hours,Unhealthy,No,10,2,No,Yes,4.0,6.88,4.0
+Himani,Female,30,Srinagar,Student,Less than 5 hours,Unhealthy,No,2,1,No,No,2.0,5.27,3.0
+Samar,Male,21,Rajkot,Student,More than 8 hours,Unhealthy,Yes,3,3,Yes,Yes,2.0,8.73,4.0
+Raunak,Male,20,Indore,Student,7-8 hours,Moderate,Yes,4,4,Yes,Yes,3.0,8.32,1.0
+Chirag,Male,28,Varanasi,Student,5-6 hours,Moderate,Yes,10,4,Yes,Yes,3.0,7.7,5.0
+Suhani,Female,20,Hyderabad,Student,7-8 hours,Moderate,Yes,5,4,Yes,Yes,3.0,6.16,2.0
+Ayansh,Male,30,Hyderabad,Student,7-8 hours,Unhealthy,Yes,2,4,Yes,Yes,3.0,9.42,2.0
+Sanya,Female,21,Thane,Student,Less than 5 hours,Healthy,Yes,9,3,Yes,Yes,3.0,5.98,1.0
+Tushar,Male,18,Thane,Student,Less than 5 hours,Moderate,Yes,12,1,Yes,Yes,5.0,6.1,2.0
+Chhavi,Female,29,Kolkata,Student,7-8 hours,Healthy,Yes,0,1,No,No,2.0,9.44,4.0
+Barkha,Female,29,Surat,Student,5-6 hours,Healthy,No,10,1,Yes,No,3.0,7.28,5.0
+Arya,Male,32,Ghaziabad,Student,5-6 hours,Moderate,Yes,12,5,No,Yes,5.0,8.04,1.0
+Pallavi,Female,29,Vasai-Virar,Student,Less than 5 hours,Unhealthy,No,11,2,Yes,No,2.0,6.08,4.0
+Tushar,Male,25,Delhi,Student,More than 8 hours,Unhealthy,Yes,6,4,No,Yes,5.0,6.78,3.0
+Anvi,Female,32,Visakhapatnam,Student,More than 8 hours,Moderate,Yes,6,2,No,No,1.0,5.3,1.0
+Kiran,Female,28,Faridabad,Student,More than 8 hours,Healthy,Yes,5,3,Yes,Yes,3.0,6.76,1.0
+Vivan,Male,24,Hyderabad,Student,Less than 5 hours,Unhealthy,Yes,5,1,Yes,Yes,3.0,9.21,2.0
+Ila,Female,19,Delhi,Student,More than 8 hours,Healthy,No,7,5,No,No,1.0,6.17,2.0
+Samar,Male,30,Nashik,Student,Less than 5 hours,Healthy,Yes,1,1,No,No,3.0,8.1,2.0
+Lakshay,Male,32,Thane,Student,7-8 hours,Unhealthy,Yes,1,4,No,Yes,3.0,5.85,1.0
+Kian,Male,21,Ludhiana,Student,5-6 hours,Healthy,Yes,10,2,Yes,No,1.0,6.38,5.0
+Meera,Female,20,Bhopal,Student,More than 8 hours,Unhealthy,Yes,3,4,Yes,Yes,3.0,8.91,4.0
+Arnav,Male,26,Lucknow,Student,5-6 hours,Unhealthy,Yes,10,4,Yes,Yes,1.0,9.54,4.0
+Sanjeev,Male,20,Ludhiana,Student,Less than 5 hours,Healthy,No,12,5,Yes,Yes,2.0,7.8,4.0
+Nirvaan,Male,32,Nashik,Student,5-6 hours,Moderate,Yes,12,3,Yes,Yes,3.0,7.09,4.0
+Kartik,Male,24,Mumbai,Student,7-8 hours,Moderate,No,5,3,Yes,Yes,4.0,5.66,1.0
+Shaurya,Male,21,Srinagar,Student,Less than 5 hours,Moderate,Yes,5,5,Yes,Yes,1.0,9.33,4.0
+Kartikeya,Male,28,Hyderabad,Student,7-8 hours,Unhealthy,Yes,11,3,No,Yes,4.0,8.58,2.0
+Anaya,Female,34,Ahmedabad,Student,7-8 hours,Moderate,No,5,1,Yes,No,1.0,8.98,4.0
+Aakash,Male,23,Agra,Student,7-8 hours,Healthy,No,2,5,Yes,No,1.0,7.03,1.0
+Gauri,Female,32,Chennai,Student,5-6 hours,Healthy,Yes,7,1,Yes,Yes,5.0,5.86,1.0
+Rashi,Female,28,Vasai-Virar,Student,Less than 5 hours,Moderate,Yes,11,5,Yes,Yes,4.0,9.1,2.0
+Abhinav,Male,22,Kanpur,Student,7-8 hours,Moderate,Yes,0,2,No,No,2.0,6.63,4.0
+Manan,Male,22,Agra,Student,Less than 5 hours,Moderate,No,10,5,No,No,2.0,7.48,5.0
+Tanya,Female,20,Kanpur,Student,7-8 hours,Healthy,Yes,11,4,No,Yes,3.0,5.08,4.0
+Tina,Female,24,Thane,Student,7-8 hours,Moderate,Yes,2,4,No,Yes,5.0,7.88,4.0
+Amit,Male,29,Jaipur,Student,Less than 5 hours,Unhealthy,Yes,2,3,No,No,1.0,7.06,3.0
+Vidhi,Female,19,Bangalore,Student,Less than 5 hours,Moderate,No,3,3,Yes,No,1.0,7.24,5.0
+Aanchal,Female,22,Srinagar,Student,Less than 5 hours,Healthy,Yes,0,1,Yes,No,2.0,5.81,2.0
+Aarti,Female,31,Vadodara,Student,7-8 hours,Moderate,No,3,2,No,No,3.0,8.08,4.0
+Shruti,Female,23,Jaipur,Student,More than 8 hours,Moderate,Yes,4,1,No,No,1.0,8.69,4.0
+Lavanya,Female,22,Vasai-Virar,Student,7-8 hours,Unhealthy,No,1,2,No,No,1.0,5.58,2.0
+Gaurav,Male,25,Meerut,Student,More than 8 hours,Unhealthy,Yes,8,1,No,Yes,3.0,6.83,2.0
+Keshav,Male,21,Jaipur,Student,5-6 hours,Unhealthy,Yes,6,5,Yes,Yes,2.0,8.23,3.0
+Ayaan,Male,25,Jaipur,Student,More than 8 hours,Healthy,No,9,2,No,No,1.0,7.74,1.0
+Nirvaan,Male,28,Rajkot,Student,Less than 5 hours,Unhealthy,No,12,3,No,Yes,5.0,9.72,1.0
+Kabir,Male,20,Delhi,Student,Less than 5 hours,Moderate,No,9,5,Yes,Yes,3.0,7.12,4.0
+Diya,Female,27,Nashik,Student,5-6 hours,Unhealthy,No,11,2,Yes,No,2.0,7.72,3.0
+Esha,Female,21,Kalyan,Student,5-6 hours,Moderate,No,12,3,No,Yes,5.0,8.62,1.0
+Aarush,Male,34,Kolkata,Student,7-8 hours,Unhealthy,Yes,11,5,No,Yes,4.0,7.51,1.0
+Khushi,Female,28,Srinagar,Student,7-8 hours,Moderate,No,3,1,No,No,3.0,6.03,4.0
+Ayaan,Male,29,Visakhapatnam,Student,7-8 hours,Unhealthy,Yes,9,3,Yes,Yes,3.0,9.37,1.0
+Siddharth,Male,26,Indore,Student,More than 8 hours,Unhealthy,No,8,3,No,Yes,5.0,10.0,2.0
+Nikhil,Male,24,Jaipur,Student,Less than 5 hours,Unhealthy,Yes,8,5,No,Yes,2.0,6.39,1.0
+Rashi,Female,23,Bhopal,Student,5-6 hours,Healthy,No,1,5,Yes,No,3.0,8.46,5.0
+Rupak,Male,33,Agra,Student,More than 8 hours,Healthy,No,8,1,Yes,No,4.0,6.89,4.0
+Kiran,Male,18,Surat,Student,More than 8 hours,Unhealthy,No,6,2,Yes,Yes,5.0,6.7,3.0
